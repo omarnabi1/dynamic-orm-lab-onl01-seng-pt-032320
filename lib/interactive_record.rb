@@ -23,7 +23,7 @@ class InteractiveRecord
  end
  
  def initialize
- 
+ end
 
   
   
